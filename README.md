@@ -212,7 +212,3 @@ Potential improvements include:
 
 ---
 
-# 👨‍💻 Author
-
-**Sathwik S.Y.R**
-Computer Science & Data Engineering
